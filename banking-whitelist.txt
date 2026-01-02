@@ -13,3 +13,8 @@ ad.doubleclick.net
 googleadservices.com
 www.googleadservices.com
 passwordsleakcheck-pa.googleapis.com
+# BMO & Banking Fraud Detection/Analytics
+gaspra.iad-03.braze.com
+browser-intake-datadoghq.com
+smetrics.bmo.com
+mobile-collector.newrelic.com
