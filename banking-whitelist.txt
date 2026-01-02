@@ -1,0 +1,14 @@
+tags.tiqcdn.com
+assets.adobedtm.com
+demdex.net
+dpm.demdex.net
+sc.omtrdc.net
+bmo.tt.omtrdc.net
+s.bmo.com
+googleapis.l.google.com
+clients2.google.com
+s.youtube.com
+click.google-analytics.com
+ad.doubleclick.net
+googleadservices.com
+www.googleadservices.com
