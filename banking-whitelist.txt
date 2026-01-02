@@ -12,3 +12,4 @@ click.google-analytics.com
 ad.doubleclick.net
 googleadservices.com
 www.googleadservices.com
+passwordsleakcheck-pa.googleapis.com
